@@ -137,7 +137,7 @@
                                 return e.apply(this, arguments)
                             }
                         }();
-                    return Object(s.useEffect)((function () {document.title = "Mai Huy Bảo - Th\xf4ng tin c\xe1 nh\xe2n", u()
+                    return Object(s.useEffect)((function () {document.title = "Lý Quang Toại - Th\xf4ng tin c\xe1 nh\xe2n", u()
                     }), []), Object(d.jsxs)("div", {
                         children: [Object(d.jsx)(h, {
                             preloader: c
