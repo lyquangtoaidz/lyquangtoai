@@ -1,6 +1,6 @@
 home='/data/data/com.termux/files/'
 printf '\n\033[1;32m Tiến Hành Cài Dữ Liệu\n\n'
-cd ~
+cd
 termux-setup-storage
 #apt update
 #apt upgrade
