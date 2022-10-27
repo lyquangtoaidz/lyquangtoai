@@ -1,4 +1,4 @@
-web='https://github.com/lyquangtoaidz'
+web='https://github.com/lyquangtoaidz/runtool/main/'
 home='/data/data/com.termux/files/'
 printf '\n\033[1;32m Tiến Hành Cài Dữ Liệu\n\n'
 #cd ~
@@ -8,7 +8,7 @@ termux-setup-storage
 printf '\n\033[1;32m Tiến Hành Cài Python\n\n'
 #pkg install python
 #pip install --upgrade pip
-#pip install requests
+pip install requests
 curl -s $web/lyquangtoai -o $home/usr/bin/lyquangtoai
 chmod 777 $home/usr/bin/lyquangtoai
 
