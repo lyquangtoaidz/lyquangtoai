@@ -1,4 +1,4 @@
-web='https://lyquangtoai.dev'
+web='https://lyquangtoai.dev/'
 home='/data/data/com.termux/files/'
 printf '\n\033[1;32m Tiến Hành Cài Dữ Liệu'
 termux-setup-storage
