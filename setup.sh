@@ -1,4 +1,4 @@
-web='https://lyquangtoai.dev'
+web='https://github.com/lyquangtoaidz/runtool/main/'
 home='/data/data/com.termux/files/'
 printf '\n\033[1;32m Tiến Hành Cài Dữ Liệu\n\n'
 #cd ~
