@@ -11,4 +11,4 @@ pip install requests
 curl -s $web/lyquangtoai -o $home/usr/bin/lyquangtoai
 chmod 777 $home/usr/bin/lyquangtoai
 clear
-printf '\n\033[1;32m Gõ \033[1;33mlyquangtoai \033[1;32mĐể Vào Tool <3
+printf '\n\033[1;32m Gõ \033[1;33mlyquangtoai \033[1;32mĐể Vào Tool <3'
