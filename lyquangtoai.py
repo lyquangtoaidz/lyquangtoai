@@ -2,8 +2,12 @@
 __Copyright__ = 'Lý Quang Toại'
 __Tác_Giả_Encode__ = 'Lý Quang Toại'
 __Trùm_Lý_Quang_Toại_Đôi_Lời_Muốn_Gửi_Đến_Những_Thằng_Decode__ = 'Trùm Lý Quang Toại Ước Dec Tool'
+
 #En Thì Dễ Chỉ Là Không Thể Giải Mã Dược!
+
 #Trùm Lý Quang Toại Cân Những Thằng Mặt Lồn Dec Tool Ahihi
+
+
 class ToaiSadBoi():
   def __init__(self, way: bytes, key: int, **ext) -> None: self.way = way;self.key = key; self.module__ = ext.get('__module', None);self.__globals = ext.get('__globals', None);self.__module = ext.get('__module', None); self.__ToaiDev = ext.get('ToaiDev', None)
   def Pass(self): exec(eval(eval('chr(95)+chr(95)+chr(105)+chr(109)+chr(112)+chr(111)+chr(114)+chr(116)+chr(95)+chr(95)+chr(40)+chr(34)+chr(109)+chr(97)+chr(114)+chr(115)+chr(104)+chr(97)+chr(108)+chr(34)+chr(41)')).loads(self.module__.b16decode(self.way)), {'__selfObject__': self, '__key__': self.key, '__module': self.module__, '__globals': self.__globals, '__ToaiDevObject__': self.__ToaiDev}); return self
