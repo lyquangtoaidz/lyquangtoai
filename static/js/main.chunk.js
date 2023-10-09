@@ -113,18 +113,7 @@
                                                 logo: "mbbank",
                                                 name: "MBBank",
                                                 ctk: "Lý Quang Toại",
-                                                stk: "300120087777"
-                                            }, 
-                                            {
-                                                logo: "mbbank",
-                                                name: "MBBank",
-                                                ctk: "Lý Quang Toại",
-                                                stk: "****"
-                                            }, {
-                                                logo: "momo",
-                                                name: "Momo",
-                                                ctk: "Lý Quang Toại",
-                                                stk: "Momo: 0368330129"
+                                                stk: "999882008999882008"
                                             }])
                                         }));
                                     case 2:
